@@ -1,1 +1,3 @@
-# Python-Qt5-Designer-Basic-Imolementation
+# Python-Qt5-Designer-Basic-Implementation
+
+Sww ReadMe.txt
